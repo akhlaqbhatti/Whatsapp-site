@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Me on WhatsApp</title>
+</head>
+<body style="text-align:center; margin-top:50px;">
+  <h1>WhatsApp Pe Message Bhejein</h1>
+  <a href="https://wa.me/923269219451" target="_blank">
+    <button style="font-size:20px; padding:10px 20px;">Message Now</button>
+  </a>
+</body>
+</html>
